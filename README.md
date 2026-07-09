@@ -1,19 +1,19 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,18,24&height=230&section=header&text=Vxsilisk&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=%E2%9F%A9%20Veil%20Side%20%C2%B7%20Stealth%20%26%20Scraping%20Infrastructure&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:D946EF&height=230&section=header&text=Vxsilisk&fontSize=85&fontColor=ffffff&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Un+gusto+tenerte+aqui+%3AD;Cybersecurity+Researcher+%26+Backend+Dev;I+build+anti-detection+%26+scraping+tooling;Zero-dependency%2C+native%2C+from+scratch" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=Un+gusto+tenerte+aqui+%3AD;Cybersecurity+Researcher+%26+Backend+Dev;I+build+anti-detection+%26+scraping+tooling;Zero-dependency%2C+native%2C+from+scratch" alt="typing"/>
 
 <br/>
 
-<a href="#"><img src="https://komarev.com/ghpvc/?username=Vxsilisk&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&labelColor=0D1117"/></a>
-<img src="https://img.shields.io/badge/MONACO-%F0%9F%87%B2%F0%9F%87%A8-22D3EE?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/VEIL_SIDE-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=Vxsilisk&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge&labelColor=1A0B2E"/></a>
+<img src="https://img.shields.io/badge/MONACO-%F0%9F%87%B2%F0%9F%87%A8-D946EF?style=for-the-badge&labelColor=1A0B2E"/>
+<img src="https://img.shields.io/badge/VEIL_SIDE-8B5CF6?style=for-the-badge&labelColor=1A0B2E"/>
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 <table border="0">
@@ -46,7 +46,7 @@ class Vxsilisk:
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <!-- ═══════════════════════════ TECH ═══════════════════════════ -->
 <div align="center">
@@ -57,7 +57,7 @@ class Vxsilisk:
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 <div align="center">
@@ -68,34 +68,34 @@ class Vxsilisk:
 
 <br/><br/>
 
-<a href="https://github.com/Vxsilisk/PulsarX"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=PulsarX&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&border_color=8B5CF6"/></a>
-<a href="https://github.com/Vxsilisk/Quasar"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Quasar&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&border_color=8B5CF6"/></a>
-<a href="https://github.com/Vxsilisk/Photon"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Photon&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&border_color=8B5CF6"/></a>
-<a href="https://github.com/Vxsilisk/Orbit"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Orbit&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&border_color=8B5CF6"/></a>
-<a href="https://github.com/Vxsilisk/Meteor"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Meteor&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&border_color=8B5CF6"/></a>
-<a href="https://github.com/Vxsilisk/Flexxe"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Flexxe&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9&border_color=8B5CF6"/></a>
+<a href="https://github.com/Vxsilisk/PulsarX"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=PulsarX&bg_color=1A0B2E&title_color=A855F7&icon_color=D946EF&text_color=e0d5ff&border_color=8B5CF6"/></a>
+<a href="https://github.com/Vxsilisk/Quasar"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Quasar&bg_color=1A0B2E&title_color=A855F7&icon_color=D946EF&text_color=e0d5ff&border_color=8B5CF6"/></a>
+<a href="https://github.com/Vxsilisk/Photon"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Photon&bg_color=1A0B2E&title_color=A855F7&icon_color=D946EF&text_color=e0d5ff&border_color=8B5CF6"/></a>
+<a href="https://github.com/Vxsilisk/Orbit"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Orbit&bg_color=1A0B2E&title_color=A855F7&icon_color=D946EF&text_color=e0d5ff&border_color=8B5CF6"/></a>
+<a href="https://github.com/Vxsilisk/Meteor"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Meteor&bg_color=1A0B2E&title_color=A855F7&icon_color=D946EF&text_color=e0d5ff&border_color=8B5CF6"/></a>
+<a href="https://github.com/Vxsilisk/Flexxe"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vxsilisk&repo=Flexxe&bg_color=1A0B2E&title_color=A855F7&icon_color=D946EF&text_color=e0d5ff&border_color=8B5CF6"/></a>
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 <div align="center">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="28"> Estadísticas en vivo
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vxsilisk&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Vxsilisk&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=768390"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vxsilisk&show_icons=true&count_private=true&hide_border=true&bg_color=1A0B2E&title_color=A855F7&icon_color=D946EF&text_color=e0d5ff"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Vxsilisk&hide_border=true&background=1A0B2E&stroke=8B5CF6&ring=D946EF&fire=D946EF&currStreakLabel=A855F7&sideLabels=e0d5ff&currStreakNum=e0d5ff&sideNums=e0d5ff&dates=A855F7"/>
 
-<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vxsilisk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9"/>
+<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vxsilisk&layout=compact&langs_count=8&hide_border=true&bg_color=1A0B2E&title_color=A855F7&text_color=e0d5ff"/>
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vxsilisk&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=ffffff&area=true&area_color=8B5CF6&hide_border=true&custom_title=Actividad%20de%20contribuciones"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vxsilisk&bg_color=1A0B2E&color=D946EF&line=A855F7&point=ffffff&area=true&area_color=8B5CF6&hide_border=true&custom_title=Actividad%20de%20contribuciones"/>
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <div align="center">
@@ -106,6 +106,6 @@ class Vxsilisk:
 
 <em>⟩ Enthusiastic Programmer · Scripting · Pentesting · Cybersecurity Researcher ⟨</em>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,18,24&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D946EF,50:A855F7,100:8B5CF6&height=120&section=footer"/>
 
 </div>
